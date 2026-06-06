@@ -1,7 +1,5 @@
 ![Artem Belonuchkin - Data Scientist / ML Engineer](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Artem%20Belonuchkin&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20/%20ML%20Engineer&descAlignY=62&descSize=16)
 
-<img align="right" src="./assets/persona-accent.gif" width="96" alt="Small monochrome visual accent" />
-
 ## Hi, I'm Artem
 
 I build practical ML and analytics systems with a focus on tabular ML, NLP/LLM workflows, and production-oriented application design.
@@ -9,6 +7,10 @@ I build practical ML and analytics systems with a focus on tabular ML, NLP/LLM w
 [![GitHub](https://img.shields.io/badge/GitHub-Brtwm-181717?style=flat&logo=github)](https://github.com/Brtwm)
 [![Email](https://img.shields.io/badge/Email-makoukito%40gmail.com-7C3AED?style=flat&logo=gmail&logoColor=white)](mailto:makoukito@gmail.com)
 [![Focus](https://img.shields.io/badge/Focus-ML%20Systems-7C3AED?style=flat)](#current-focus)
+
+<p align="center">
+  <img src="./assets/persona-accent.gif" width="72" alt="Small monochrome visual accent" />
+</p>
 
 ## About
 
