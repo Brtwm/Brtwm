@@ -8,8 +8,8 @@ I build practical ML and analytics systems with a focus on tabular ML, NLP/LLM w
 [![Email](https://img.shields.io/badge/Email-makoukito%40gmail.com-7C3AED?style=flat&logo=gmail&logoColor=white)](mailto:makoukito@gmail.com)
 [![Focus](https://img.shields.io/badge/Focus-ML%20Systems-7C3AED?style=flat)](#current-focus)
 
-<p align="center">
-  <img src="./assets/persona-accent.gif" width="72" alt="Small monochrome visual accent" />
+<p align="right">
+  <img src="./assets/persona-accent.gif" width="88" alt="Small monochrome visual accent" />
 </p>
 
 ## About
